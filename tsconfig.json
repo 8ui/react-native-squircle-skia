@@ -7,7 +7,6 @@
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
-    "importsNotUsedAsValues": "preserve",
     "jsx": "react",
     "module": "commonjs",
     "moduleResolution": "node",
